@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my Personal Website (Hardcoded Version)<br>🤝 I’m looking for help with web development<br>🌱 I’m currently learning frontend development
+🔭 I’m currently working on my Personal Website (Hardcoded Version)<br>🤝 I’m looking for help with intensips<br>🌱 I’m presently practicing frontend development
 
 
 ## 🌐 Socials:
